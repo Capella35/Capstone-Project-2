@@ -1,1 +1,1 @@
-# Capstone-Project-2
+# Classification project
